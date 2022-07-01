@@ -1,2 +1,2 @@
-# Module-ES6-
+# Module (ES6)
 Advance javascript
